@@ -6,7 +6,7 @@ On the Front-end side, I covered the following technologies: HTML, CSS (notably 
 
 On the Back-end side, I worked extensively with PHP (both procedural and object-oriented), including experience with the Symfony framework. I created, among other things, a RESTful API in PHP.
 
-📫 How to reach me : 
+📫 How to reach me : ➡️ LinkedIn profile
 
 
 <!---
